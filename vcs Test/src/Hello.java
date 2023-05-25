@@ -10,6 +10,8 @@ public class Hello {
 		//팀 -> 머지 툴 (변경점 생겨서 또 커밋을 하삼)
 		
 		
+		//원격에서 작업했습니다.
+		
 		System.out.println("Hello World!");
 		
 		System.out.println("변경");
