@@ -4,6 +4,11 @@ public class Hello {
 	public static void main (String[] args){
 		//로컬에서 작업햇습니다.
 		
+		//최신에서 다운로드 받았는데 구버전이랑 충돌
+		//둘 중 하나를 삭제해야하는거임 
+		//아니면 둘 다 살리던가 (병합이라는 작업)
+		//팀 -> 머지 툴 (변경점 생겨서 또 커밋을 하삼)
+		
 		
 		System.out.println("Hello World!");
 		
