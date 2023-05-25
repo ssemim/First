@@ -2,6 +2,8 @@
 public class Hello {
 	
 	public static void main (String[] args){
+		//로컬에서 작업햇습니다.
+		
 		
 		System.out.println("Hello World!");
 		
